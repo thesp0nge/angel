@@ -1,0 +1,13 @@
+AngeL - 0.3x Installation steps
+0x1 Intro
+AngeL has been developed using a Gentoo Linux distribution. Software versions are:
+* gcc (3.3.6)
+* linux kernel (2.6.13)
+* glibc (2.3.5)
+... and with vi, of course! :)
+
+0x2 Compile the module
+0x3 Install it
+
+make -C /usr/src/linux M=`pwd`
+$Id: INSTALL,v 1.2 2005/10/23 20:41:37 sp0nge Exp $

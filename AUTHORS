@@ -1,0 +1,13 @@
+AngeL 0.2x team:
+
+* project core management, mailing list handling, web site development
+   + Perego Paolo  aka 'thesp0nge' <sponge@sikurezza.org>
+
+* anti system call redirector module, logging system improvement, anti BoF
+code improvement:
+   + Angelo Dell'Aera aka 'buffer' <buffer@antifork.org>
+
+* original network subsystem:
+   + Scaccabarozzi Aldo	   <axsca@tiscali.it>
+
+$Id: AUTHORS,v 1.1.1.1 2005/10/06 21:47:19 sp0nge Exp $

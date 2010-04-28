@@ -1,0 +1,19 @@
+# $Id: Kconfig,v 1.1.1.1 2005/10/06 21:47:21 sp0nge Exp $
+#
+# AngeL Kconfig file
+#
+config SECURITY_ANGEL
+	tristate "AngeL host based access control kernel module"
+	depends on SECURITY && NET && INET
+	default n
+	help
+	  Please wait for help to appear...
+	  If you are unsure how to answer this question, answer N.
+
+config SECURITY_ANGEL_SYSCTL
+  	bool "AngeL sysctl stats entries..."
+	depends on SECURITY_ANGEL
+	default y
+	help 
+	  If you are unsure how to answer this question, answer Y.
+	
